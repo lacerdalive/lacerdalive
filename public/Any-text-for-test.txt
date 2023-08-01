@@ -1,0 +1,25 @@
+Fullstack - Front+back
+Fullcycle - Fullstack+infra
+
+Stack Overflow
+Codigo Fonte YT
+w3school.net
+
+Low language
+Machine Coding are binary codes
+
+High language
+Java, JavaScript, Python, PHP, etc
+
+ISP - Internet Service Provider (Operadoras: Claro, Oi, Vivo, etc)
+
+How do Front and Back end comunicates?
+Throught APIs (Application Programme Interface)
+Coded Throught Backend
+Request-Response
+API is also used to communicate between other backend(s)
+API é um conjunto de normas que facilita a comunicação entre plataformas
+is a set of rules to communicate between platforms
+
+
+
